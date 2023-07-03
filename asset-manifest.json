@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MonniSoftwareWeb/static/css/main.073c9b0a.css",
+    "main.js": "/MonniSoftwareWeb/static/js/main.84da0e14.js",
+    "static/js/787.d756527c.chunk.js": "/MonniSoftwareWeb/static/js/787.d756527c.chunk.js",
+    "static/media/logo.svg": "/MonniSoftwareWeb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MonniSoftwareWeb/index.html",
+    "main.073c9b0a.css.map": "/MonniSoftwareWeb/static/css/main.073c9b0a.css.map",
+    "main.84da0e14.js.map": "/MonniSoftwareWeb/static/js/main.84da0e14.js.map",
+    "787.d756527c.chunk.js.map": "/MonniSoftwareWeb/static/js/787.d756527c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84da0e14.js"
+  ]
+}
